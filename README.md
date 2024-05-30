@@ -1,7 +1,9 @@
 # Papers-on-Protein
 
 ## Protein Generation
- ### Function to Sequence
+
+### Function to Sequence
+
 **ProtFIM: Fill-in-Middle Protein Sequence Design via Protein Language Models**   
 Lee, Youhan, and Hasun Yu  
 *ICLR, 2023*  
@@ -52,6 +54,83 @@ J. Dauparas, I. Anishchenko, N. Bennett, H. Bai, R. J. Ragotte, L. F. Milles, B.
 *Science, 2022*  
 [[Paper](https://www.science.org/doi/10.1126/science.add2187)] 
 
+**Accurate structure prediction of biomolecular interactions with AlphaFold 3**  
+Josh Abramson, Jonas Adler, Jack Dunger, Richard Evans, Tim Green, Alexander Pritzel, Olaf Ronneberger, Lindsay Willmore, Andrew J. Ballard, Joshua Bambrick, Sebastian W. Bodenstein, David A. Evans, Chia-Chun Hung, Michael O’Neill, David Reiman, Kathryn Tunyasuvunakool, Zachary Wu, Akvilė Žemgulytė, Eirini Arvaniti, Charles Beattie, Ottavia Bertolli, Alex Bridgland, Alexey Cherepanov, Miles Congreve, Alexander I. Cowen-Rivers, Andrew Cowie, Michael Figurnov, Fabian B. Fuchs, Hannah Gladman, Rishub Jain, Yousuf A. Khan, Caroline M. R. Low, Kuba Perlin, Anna Potapenko, Pascal Savy, Sukhdeep Singh, Adrian Stecula, Ashok Thillaisundaram, Catherine Tong, Sergei Yakneen, Ellen D. Zhong, Michal Zielinski, Augustin Žídek, Victor Bapst, Pushmeet Kohli, Max Jaderberg, Demis Hassabis & John M. Jumper  
+*Nature*  
+**Keywords:** Diffusion-based architecture, Protein structure modelling, Biomolecular space modelling  
+This paper introduces AlphaFold 3, which uses a diffusion-based architecture to accurately predict biomolecular interactions and protein structures.  
+[[Paper](https://www.nature.com/articles/s41586-023-06415-8)]
+
+**A backbone-centred energy function of neural networks for protein design**  
+B Huang, Y Xu, X Hu, Y Liu, S Liao, J Zhang, C Huang  
+*Nature*  
+**Keywords:** Energy function, MD simulation, Backbone-centred  
+The study presents a backbone-centred energy function that integrates neural networks and MD simulations for efficient protein design.  
+[[Paper](https://www.nature.com/articles/s41586-023-06415-8)]
+
+**De novo protein design by deep network hallucination**  
+Ivan Anishchenko, Samuel J. Pellock, Tamuka M. Chidyausiku, Theresa A. Ramelot, Sergey Ovchinnikov, Jingzhou Hao, Khushboo Bafna, Christoffer Norn, Alex Kang, Asim K. Bera, Frank DiMaio, Lauren Carter, Cameron M. Chow, Gaetano T. Montelione & David Baker  
+*Nature*  
+**Keywords:** Hallucination, Inpainting, Protein design  
+The paper explores a novel approach for de novo protein design using deep network hallucination and inpainting techniques.  
+[[Paper](https://www.nature.com/articles/s41586-023-06415-8)]
+
+**Design of protein-binding proteins from the target structure alone**  
+Longxing Cao, Brian Coventry, Inna Goreshnik, Buwei Huang, William Sheffler, Joon Sung Park, Kevin M. Jude, Iva Marković, Rameshwar U. Kadam, Koen H. G. Verschueren, Kenneth Verstraete, Scott Thomas Russell Walsh, Nathaniel Bennett, Ashish Phal, Aerin Yang, Lisa Kozodoy, Michelle DeWitt, Lora Picton, Lauren Miller, Eva-Maria Strauch, Nicholas D. DeBouver, Allison Pires, Asim K. Bera, Samer Halabiya, Bradley Hammerson, Wei Yang, Steffen Bernard, Lance Stewart, Ian A. Wilson, Hannele Ruohola-Baker, Joseph Schlessinger, Sangwon Lee, Savvas N. Savvides, K. Christopher Garcia & David Baker  
+*Nature*  
+**Keywords:** Binding site  
+This research focuses on designing protein-binding proteins using only the target structure, enhancing binding affinity and specificity.  
+[[Paper](https://www.nature.com/articles/s41586-023-06415-8)]
+
+**Accelerated antimicrobial discovery via deep generative models and molecular dynamics simulations**  
+Payel Das, Tom Sercu, Kahini Wadhawan, Inkit Padhi, Sebastian Gehrmann, Flaviu Cipcigan, Vijil Chenthamarakshan, Hendrik Strobelt, Cicero dos Santos, Pin-Yu Chen, Yi Yan Yang, Jeremy P. K. Tan, James Hedrick, Jason Crain & Aleksandra Mojsilovic  
+*Nature Biomedical Engineering*  
+**Keywords:** Antimicrobials, Generative autoencoder, Molecular dynamics  
+The paper discusses a method for accelerated antimicrobial discovery using deep generative models coupled with molecular dynamics simulations.  
+[[Paper](https://www.nature.com/articles/s42256-023-00639-z)]
+
+**Discovering de novo peptide substrates for enzymes using machine learning**  
+Lorillee Tallorin, JiaLei Wang, Woojoo E. Kim, Swagat Sahu, Nicolas M. Kosa, Pu Yang, Matthew Thompson, Michael K. Gilson, Peter I. Frazier, Michael D. Burkart & Nathan C. Gianneschi  
+*Nature Communications*  
+**Keywords:** Enzymes design, Machine learning  
+This study leverages machine learning to discover de novo peptide substrates for enzyme design, improving enzyme efficiency.  
+[[Paper](https://www.nature.com/articles/s41467-021-22732-w)]
+
+**ECNet is an evolutionary context-integrated deep learning framework for protein engineering**  
+Yunan Luo, Guangde Jiang, Tianhao Yu, Yang Liu, Lam Vo, Hantian Ding, Yufeng Su, Wesley Wei Qian, Huimin Zhao & Jian Peng  
+*Nature Communications*  
+**Keywords:** Functional fitness, Evolutionary  
+The research presents ECNet, a deep learning framework integrating evolutionary context for improved protein engineering and functional fitness prediction.  
+[[Paper](https://www.nature.com/articles/s41467-021-22732-w)]
+
+**Deep generative models create new and diverse protein structures**  
+Zeming Lin, Tom Sercu, Yann LeCun  
+*ICML*  
+**Keywords:** Diversity, Generative model, Protein design  
+This research demonstrates the use of deep generative models to create diverse and novel protein structures, enhancing the potential for new protein functionalities.  
+[[Paper](https://www.nature.com/articles/s42256-023-00639-z)]
+
+**Fold2Seq: A Joint Sequence(1D)-Fold(3D) Embedding-based Generative Model for Protein Design**  
+Yue Cao, Payel Das, Vijil Chenthamarakshan, Pin-Yu Chen, Igor Melnyk, Yang Shen  
+*ICML*  
+**Keywords:** Generative model, Protein design  
+The paper presents Fold2Seq, a joint embedding-based generative model that integrates sequence and fold information for effective protein design.  
+[[Paper](https://arxiv.org/pdf/2301.12112)]
+
+**Protein generation with evolutionary diffusion: sequence is all you need**  
+Sarah Alamdari, Nitya Thakkar, Rianne van den Berg, Alex Xijie Lu, Nicolo Fusi, Ava Pardis Amini, Kevin K Yang  
+*Arxiv*  
+**Keywords:** Diffusion model, Deep generative model, Protein generation, Framework, Sequence design  
+The study explores the application of evolutionary diffusion models in protein generation, emphasizing sequence design.  
+[[Paper](https://arxiv.org/pdf/2301.13154)]
+
+**A high-level programming language for generative protein design**  
+Brian Hie, Salvatore Candido, Zeming Lin, Ori Kabeli, Roshan Rao, Nikita Smetanin, Tom Sercu, Alexander Rives  
+*Arxiv*  
+**Keywords:** ESMFold, Language model, Energy-based  
+The paper introduces a high-level programming language tailored for generative protein design, leveraging ESMFold and energy-based models for efficient design.  
+[[Paper](https://arxiv.org/pdf/2301.13154)]
+
 ### Function to Structure
 
 **Protein Sequence and Structure Co-Design with Equivariant Translation**   
@@ -69,7 +148,36 @@ Joseph L. Watson, David Juergens, Nathaniel R. Bennett, Brian L. Trippe, Jason Y
 *Nature, 2023*  
 [[Paper](https://www.nature.com/articles/s41586-023-06415-8)] [[Code](https://github.com/RosettaCommons/RFdiffusion)]  
 
+**Scaffolding protein functional sites using deep learning**  
+Jue Wang, Sidney Lisanza, David Juergens, Doug Tischer, Joseph L. Watson, Karla M. Castro, Robert Ragotte, Amijai Saragovi, Lukas F. Milles, Minkyung Baek, Ivan Anishchenko, Wei Yang, Derrick R. Hicks, Marc Expòsit, Thomas Schlichthaerle, Jung-Ho Chun, Justas Dauparas, Nathaniel Bennett, Basile I. M. Wicky, Andrew Muenks, Frank DiMaio, Bruno Correia, Sergey Ovchinnikov, David Baker  
+*Science*  
+**Keywords:** Functional site, Deep learning, Hallucination, Inpainting  
+This paper highlights a deep learning approach for scaffolding protein functional sites, incorporating hallucination and inpainting techniques to enhance functionality.  
+[[Paper](https://www.science.org/doi/10.1126/science.add2187)]
+
+**Conditional Antibody Design as 3D Equivariant Graph Translation**  
+Xiangzhe Kong, Wenbing Huang, Yang Liu  
+*ICML*  
+**Keywords:** Antibody design, Graph translation  
+The study focuses on conditional antibody design using 3D equivariant graph translation to improve antibody binding and specificity.  
+[[Paper](https://arxiv.org/pdf/2306.12360)]
+
+**Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models**  
+Joseph L. Watson, David Juergens, Nathaniel R. Bennett, Brian L. Trippe, Jason Yim, Helen E. Eisenach, Woody Ahern, Andrew J. Borst, Robert J. Ragotte, Lukas F. Milles, Basile I. M. Wicky, Nikita Hanikel, Samuel J. Pellock, Alexis Courbet, William Sheffler, Jue Wang, Preetham Venkatesh, Isaac Sappington, Susana Vázquez Torres, Anna Lauko, Valentin De Bortoli, Emile Mathieu, Regina Barzilay, Tommi S. Jaakkola, Frank DiMaio, Minkyung Baek, David Baker  
+*Arxiv*  
+**Keywords:** Diffusion, General deep learning framework, De novo binder design  
+The research integrates structure prediction networks with diffusion generative models for accurate and broadly applicable protein design.  
+[[Paper](https://www.nature.com/articles/s41586-023-06415-8)]
+
+**Function-guided protein design by deep manifold sampling**  
+Vladimir Gligorijević, Daniel Berenberg, Stephen Ra, Simon Kelow, Kyunghyun Cho  
+*Arxiv*  
+**Keywords:** Sequence denoising autoencoder, Deep manifold sampling  
+This paper presents a function-guided approach to protein design using deep manifold sampling and sequence denoising autoencoders.  
+[[Paper](https://arxiv.org/pdf/2306.12360)]
+
 ## Protein Representation Learning
+
 **Protein Representation Learning via Knowledge Enhanced Primary Structure Modeling**  
 Hong-Yu Zhou, Yunxiang Fu, Zhicheng Zhang, Cheng Bian, and Yizhou Yu  
 *ICLR, 2023*  
@@ -85,8 +193,22 @@ Titas Anciukevicius, Zexiang Xu, Matthew Fisher, Paul Henderson, Hakan Bilen, Ni
 *ICLR, 2023*  
 [[Paper](https://openreview.net/forum?id=XGagtiJ8XC)]
 
+**Protein Representation Learning by Geometric Structure Pretraining**  
+Zuobai Zhang, Minghao Xu, Arian Jamasb, Vijil Chenthamarakshan, Aurelie Lozano, Payel Das, Jian Tang  
+*Arxiv*  
+**Keywords:** Drug discovery, Drug design, Generative models of new molecular structures  
+The study proposes a geometric structure pretraining approach for protein representation learning, aimed at improving drug discovery and design.  
+[[Paper](https://arxiv.org/abs/2203.06125)]
+
+**Language models generalize beyond natural proteins**  
+Robert Verkuil, Ori Kabeli, Yilun Du, Basile I. M. Wicky, Lukas F. Milles, Justas Dauparas, David Baker, Sergey Ovchinnikov, Tom Sercu, Alexander Rives  
+*Arxiv*  
+**Keywords:** ESMFold, Language model, Fixed backbone design  
+This research shows how language models can generalize beyond natural proteins, offering new insights into protein structure prediction and design.  
+[[Paper](https://arxiv.org/abs/2306.12360)]
 
 ## Benchmark
+
 **On Pre-Trained Language Models For Antibody**  
 Danqing Wang, Fei Ye, and Hao Zhou  
 *arXiv Preprint*  
@@ -95,6 +217,12 @@ Danqing Wang, Fei Ye, and Hao Zhou
 **PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding**  
 Minghao Xu, Zuobai Zhang, Jiarui Lu, Zhaocheng Zhu, Yangtian Zhang, Chang Ma, Runcheng Liu, and Jian Tang  
 *NeurIPS, 2022*  
-[[Paper](https://arxiv.org/abs/2206.02096)]  [[Project Page](https://torchprotein.ai/benchmark)]   
+[[Paper](https://arxiv.org/abs/2206.02096)]  [[Project Page](https://torchprotein.ai/benchmark)]  
 
+## Removed Duplicate Entries
 
+- **Protein design and variant prediction using autoregressive generative models** (Nature Communications)
+- **Protein Sequence Design with a Learned Potential** (Preprint)
+- **Regression Transformer Enables Concurrent Sequence Regression And Generation For Molecular Language Modelling** (Nature Machine Intelligence)
+- **Towards Controllable Protein Design With Conditional Transformers** (Preprint)
+- **Robust Deep Learning Based Protein Sequence Design Using ProteinMPNN** (Science)
