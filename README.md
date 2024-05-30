@@ -1,4 +1,4 @@
-# Papers-on-3D-Vision
+# Papers-on-Protein
 
 ## Protein Generation
  ### Function to Sequence
