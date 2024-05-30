@@ -110,13 +110,6 @@ Zeming Lin, Tom Sercu, Yann LeCun
 This research demonstrates the use of deep generative models to create diverse and novel protein structures, enhancing the potential for new protein functionalities.  
 [[Paper](https://www.nature.com/articles/s42256-023-00639-z)]
 
-**Fold2Seq: A Joint Sequence(1D)-Fold(3D) Embedding-based Generative Model for Protein Design**  
-Yue Cao, Payel Das, Vijil Chenthamarakshan, Pin-Yu Chen, Igor Melnyk, Yang Shen  
-*ICML*  
-**Keywords:** Generative model, Protein design  
-The paper presents Fold2Seq, a joint embedding-based generative model that integrates sequence and fold information for effective protein design.  
-[[Paper](https://arxiv.org/pdf/2301.12112)]
-
 **Protein generation with evolutionary diffusion: sequence is all you need**  
 Sarah Alamdari, Nitya Thakkar, Rianne van den Berg, Alex Xijie Lu, Nicolo Fusi, Ava Pardis Amini, Kevin K Yang  
 *Arxiv*  
@@ -176,6 +169,12 @@ Vladimir Gligorijević, Daniel Berenberg, Stephen Ra, Simon Kelow, Kyunghyun Cho
 This paper presents a function-guided approach to protein design using deep manifold sampling and sequence denoising autoencoders.  
 [[Paper](https://arxiv.org/pdf/2306.12360)]
 
+**Deep sharpening of topological features for de novo protein design**  
+Zander Harteveld, Joshua Southern, Michaël Defferrard, Andreas Loukas, Pierre Vandergheynst, Micheal Bronstein, Bruno Correia  
+*ICML*  
+**Keywords:** Variational autoencoder, Topological features, Sharpen  
+[[Paper](https://arxiv.org/pdf/2306.12360)]
+
 ## Protein Representation Learning
 
 **Protein Representation Learning via Knowledge Enhanced Primary Structure Modeling**  
@@ -219,10 +218,5 @@ Minghao Xu, Zuobai Zhang, Jiarui Lu, Zhaocheng Zhu, Yangtian Zhang, Chang Ma, Ru
 *NeurIPS, 2022*  
 [[Paper](https://arxiv.org/abs/2206.02096)]  [[Project Page](https://torchprotein.ai/benchmark)]  
 
-## Removed Duplicate Entries
 
-- **Protein design and variant prediction using autoregressive generative models** (Nature Communications)
-- **Protein Sequence Design with a Learned Potential** (Preprint)
-- **Regression Transformer Enables Concurrent Sequence Regression And Generation For Molecular Language Modelling** (Nature Machine Intelligence)
-- **Towards Controllable Protein Design With Conditional Transformers** (Preprint)
-- **Robust Deep Learning Based Protein Sequence Design Using ProteinMPNN** (Science)
+
