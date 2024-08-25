@@ -124,6 +124,11 @@ Brian Hie, Salvatore Candido, Zeming Lin, Ori Kabeli, Roshan Rao, Nikita Smetani
 The paper introduces a high-level programming language tailored for generative protein design, leveraging ESMFold and energy-based models for efficient design.  
 [[Paper](https://arxiv.org/pdf/2301.13154)]
 
+**ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**  
+Liuzhenghao Lv, Zongying Lin, Hao Li, Yuyang Liu, Jiaxi Cui, Calvin Yu-Chian Chen, Li Yuan, Yonghong Tian
+*Arxiv*    
+[[Paper](https://arxiv.org/pdf/2402.16445)]
+
 ### Function to Structure
 
 **Protein Sequence and Structure Co-Design with Equivariant Translation**   
@@ -207,6 +212,41 @@ This research shows how language models can generalize beyond natural proteins, 
 [[Paper](https://arxiv.org/abs/2306.12360)]
 
 ## Protein Understanding
+
+**LucaOne: Generalized Biological Foundation Model with Unified Nucleic Acid and Protein Language**  
+Yong He, Pan Fang, Yongtao Shan, Yuanfei Pan, Yanhong Wei, Yichang Chen, Yihao Chen, Yi Liu, Zhenyu Zeng, Zhan Zhou, Feng Zhu, Edward C. Holmes, Jieping Ye, Jun Li, Yuelong Shu, Mang Shi, and Zhaorong Li
+*ArXiv*  
+[[Paper](https://www.biorxiv.org/content/10.1101/2024.05.10.592927v1)] [[Project Page](https://github.com/LucaOne/LucaOne?tab=readme-ov-file)]
+
+**SaProt: Protein Language Modeling with Structure-aware Vocabulary**  
+Jin Su, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, and Fajie Yuan
+*ArXiv*  
+[[Paper](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v1)] [[Project Page](https://github.com/westlake-repl/SaProt)]
+
+**BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine**  
+Yizhen Luo, Jiahuan Zhang, Siqi Fan, Kai Yang, Yushuai Wu, Mu Qiao, and Zaiqing Nie
+*ArXiv*  
+[[Paper](https://arxiv.org/pdf/2308.09442)] [[Project Page](https://github.com/PharMolix/OpenBioMed)]
+
+**PQA: Zero-shot Protein Question Answering for Free-form Scientific Enquiry with Large Language Models**  
+Eli M Carrami, Sahand Sharifzadeh
+*ArXiv*  
+[[Paper](https://arxiv.org/pdf/2402.13653)] [[Project Page](https://github.com/EMCarrami/Pika)]
+
+**InstructProtein: Aligning Human and Protein Language via Knowledge Instruction**  
+Zeyuan Wang, Qiang Zhang, Keyan Ding, Ming Qin, Xiang Zhuang, Xiaotong Li, and Huajun Chen
+*ArXiv*  
+[[Paper](https://arxiv.org/pdf/2310.03269)] [[Project Page](https://github.com/HICAI-ZJU/InstructProtein)]
+
+**ProtT3: Protein-to-Text Generation for Text-based Protein Understanding**  
+Zhiyuan Liu, An Zhang, Hao Fei, Enzhi Zhang, Xiang Wang, Kenji Kawaguchi, and Tat-Seng Chua
+*ArXiv*  
+[[Paper](https://arxiv.org/pdf/2405.12564)] [[Project Page](https://github.com/acharkq/ProtT3)]
+
+**Tag-LLM: Repurposing General-Purpose LLMs for Specialized Domains**  
+Junhong Shen, Neil Tenenholtz, James Brian Hall, David Alvarez-Melis, and Nicolo Fusi 
+*ArXiv*  
+[[Paper](https://arxiv.org/pdf/2402.05140)] [[Project Page](https://github.com/sjunhongshen/Tag-LLM)]
 
 ## Benchmark
 
