@@ -1,3 +1,7 @@
+## Project Overview
+
+We aim to focus on protein sequence prediction by researching relevant models and exploring transferable strategies from multimodal approaches. Our goal is to identify and adapt state-of-the-art methods that can enhance the prediction of protein sequences through innovative and efficient modeling techniques.
+
 # Papers-on-Protein
 
 ## Protein Generation
@@ -13,6 +17,60 @@ Lee, Youhan, and Hasun Yu
 Ilia Igashov, Hannes Stärk, Clément Vignac, Arne Schneuing, Victor Garcia Satorras, Pascal Frossard, Max Welling, Michael Bronstein and Bruno Correia  
 *Nature Machine Intelligence*  
 [[Paper](https://www.nature.com/articles/s42256-024-00815-9)] [[Code](https://github.com/igashov/DiffLinker)]  
+
+**Linker-Tuning: Optimizing Continuous Prompts for Heterodimeric Protein Prediction**  
+Shuxian Zou, Shentong Mo, Hui Li, Xingyi Cheng, Le Song, Eric Xing  
+*NeurIPS, 2023 (submitted)*  
+[[Paper](https://openreview.net/pdf?id=g8S53BmXE6)]  
+Abstract: This paper introduces Linker-Tuning, a method that adapts ESMFold to predict heterodimer structures efficiently, showing significant improvements over baseline models in accuracy and speed.
+
+**HelixFold-Multimer: Elevating Protein Complex Structure Prediction to New Heights**  
+Authors not specified in available content  
+*Publication Date: Not Specified*  
+[[Paper](https://ar5iv.org/pdf/2404.10260)]  
+Abstract: HelixFold-Multimer showcases exceptional accuracy in predicting antigen-antibody complexes, making it a promising tool for advancing drug design and therapeutic development.
+
+**Pairing Interacting Protein Sequences Using Masked Language Modeling**  
+Authors not specified in available content  
+*Publication Date: Not Specified*  
+[[Paper](https://ar5iv.org/pdf/2308.07136)]  
+Abstract: This study leverages MSA-based transformers for protein sequence pairing, demonstrating superior performance over traditional coevolution methods, particularly in challenging datasets with low sequence diversity.
+
+**Leveraging Machine Learning Models for Peptide-Protein Interaction Prediction**  
+Authors not specified in available content  
+*Publication Date: Not Specified*  
+[[Paper](https://ar5iv.org/pdf/2310.18249)]  
+Abstract: This work integrates machine learning techniques, including SVM and Random Forest models, to predict peptide-protein interactions using sequence-based and structure-based features, enhancing prediction accuracy.
+
+**Reinforcement Learning for Sequence Design Leveraging Protein Language Models**  
+Authors not specified in the available content  
+*2023*  
+[[Paper](https://ar5iv.org/pdf/2407.03154)]  
+Abstract: This paper presents a modular approach to leverage existing protein language models within a reinforcement learning framework, focusing on generating protein sequences through mutation policies.
+
+**ReLSO: A Transformer-based Model for Latent Space Optimization and Generation of Proteins**  
+Authors not specified in the available content  
+*2023*  
+[[Paper](https://ar5iv.org/pdf/2201.09948)]  
+Abstract: ReLSO integrates sequence and fitness information into a jointly trained autoencoder, optimizing protein sequences by modeling the sequence-function landscape.
+
+**Diffusion Language Models Are Versatile Protein Learners**  
+Authors not specified in the available content  
+*2023*  
+[[Paper](https://ar5iv.org/pdf/2402.18567)]  
+Abstract: This work blends diffusion models and language models for protein learning, utilizing discrete diffusion over sequence data for effective modeling of protein structures and interactions.
+
+**Protein Sequence Design with Batch Bayesian Optimisation**  
+Authors not specified in the available content  
+*2023*  
+[[Paper](https://ar5iv.org/pdf/2303.10429)]  
+Abstract: The study introduces a Bayesian optimization approach to protein sequence design, focusing on exploring the proximal frontier of the fitness landscape to find high-fitness mutants.
+
+**Network and Sequence-Based Prediction of Protein-Protein Interactions**  
+Authors not specified in the available content  
+*2023*  
+[[Paper](https://ar5iv.org/pdf/2107.03694)]  
+Abstract: The paper models protein interactions using sequence similarity and biological indices, predicting interactions based on evolutionary and functional similarities among protein sequences.
 
 **PiFold: Toward effective and efficient protein inverse folding**  
 Zhangyang Gao, Cheng Tan, and Stan Z. Li  
@@ -53,6 +111,13 @@ Noelia Ferruz, and Birte Höcker
 J. Dauparas, I. Anishchenko, N. Bennett, H. Bai, R. J. Ragotte, L. F. Milles, B. I. M. Wicky, A. Courbet, R. J. de Haas, N. Bethel, P. J. Y. Leung, T. F. Huddy, S. Pellock, D. Tischer, F. Chan, B. Koepnick, H. Nguyen, A. Kang, B. Sankaran, A. K. Bera, N. P. King, and D. Baker  
 *Science, 2022*  
 [[Paper](https://www.science.org/doi/10.1126/science.add2187)] 
+
+**Linker-Tuning: Optimizing Continuous Prompts for Heterodimeric Protein Prediction**  
+Shuxian Zou, Shentong Mo, Hui Li, Xingyi Cheng, Le Song, Eric Xing  
+*NeurIPS, 2023 (submitted)*  
+[[Paper](https://openreview.net/pdf?id=g8S53BmXE6)]  
+Keywords: protein structure prediction, protein language models, parameter-efficient training  
+Abstract: This paper introduces Linker-Tuning, a method that adapts ESMFold to predict heterodimer structures efficiently, showing significant improvements over baseline models in accuracy and speed.
 
 **Accurate structure prediction of biomolecular interactions with AlphaFold 3**  
 Josh Abramson, Jonas Adler, Jack Dunger, Richard Evans, Tim Green, Alexander Pritzel, Olaf Ronneberger, Lindsay Willmore, Andrew J. Ballard, Joshua Bambrick, Sebastian W. Bodenstein, David A. Evans, Chia-Chun Hung, Michael O’Neill, David Reiman, Kathryn Tunyasuvunakool, Zachary Wu, Akvilė Žemgulytė, Eirini Arvaniti, Charles Beattie, Ottavia Bertolli, Alex Bridgland, Alexey Cherepanov, Miles Congreve, Alexander I. Cowen-Rivers, Andrew Cowie, Michael Figurnov, Fabian B. Fuchs, Hannah Gladman, Rishub Jain, Yousuf A. Khan, Caroline M. R. Low, Kuba Perlin, Anna Potapenko, Pascal Savy, Sukhdeep Singh, Adrian Stecula, Ashok Thillaisundaram, Catherine Tong, Sergei Yakneen, Ellen D. Zhong, Michal Zielinski, Augustin Žídek, Victor Bapst, Pushmeet Kohli, Max Jaderberg, Demis Hassabis & John M. Jumper  
@@ -259,6 +324,24 @@ Danqing Wang, Fei Ye, and Hao Zhou
 Minghao Xu, Zuobai Zhang, Jiarui Lu, Zhaocheng Zhu, Yangtian Zhang, Chang Ma, Runcheng Liu, and Jian Tang  
 *NeurIPS, 2022*  
 [[Paper](https://arxiv.org/abs/2206.02096)]  [[Project Page](https://torchprotein.ai/benchmark)]  
+
+## Multimodal Transfer Reference
+**AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**  
+Jun Zhan, Junqi Dai, Jiasheng Ye, Yunhua Zhou, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li, Hang Yan, Jie Fu, Tao Gui, Tianxiang Sun, Yugang Jiang, Xipeng Qiu  
+*Fudan University, Multimodal Art Projection Research Community, Shanghai AI Laboratory*  
+[[Paper](https://junzhan2000.github.io/AnyGPT.github.io)]  
+Abstract: AnyGPT introduces a unified framework that integrates multimodal data into a single language model through discrete sequence modeling, facilitating seamless understanding and generation across various modalities.
+
+**SHOW-O: One Single Transformer to Unify Multimodal Understanding and Generation**  
+Jinheng Xie, Weijia Mao, Zechen Bai, David Junhao Zhang, Weihao Wang, Kevin Qinghong Lin, Yuchao Gu, Zhijie Chen, Zhenheng Yang, Mike Zheng Shou  
+*Show Lab, National University of Singapore; ByteDance*  
+Abstract: SHOW-O presents a unified Transformer architecture that integrates multimodal understanding and generation, enabling efficient and high-quality performance across diverse tasks involving visual and textual data.
+
+**Semantic Alignment for Multimodal Large Language Models**  
+Tao Wu, Mengze Li, Jingyuan Chen, Wei Ji, Wang Lin, Jinyang Gao, Kun Kuang, Zhou Zhao, Fei Wu  
+*Zhejiang University, National University of Singapore, Alibaba Group*  
+Abstract: This work introduces a novel approach for aligning semantics in multimodal large language models, enhancing the coherence and consistency of information across different modalities to improve understanding and generation tasks.
+
 
 
 
