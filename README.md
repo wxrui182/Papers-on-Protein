@@ -342,6 +342,19 @@ Tao Wu, Mengze Li, Jingyuan Chen, Wei Ji, Wang Lin, Jinyang Gao, Kun Kuang, Zhou
 *Zhejiang University, National University of Singapore, Alibaba Group*  
 Abstract: This work introduces a novel approach for aligning semantics in multimodal large language models, enhancing the coherence and consistency of information across different modalities to improve understanding and generation tasks.
 
+### dataset construction
+**Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models**  
+Yin Fang, Xiaozhuan Liang, Ningyu Zhang, Kangwei Liu, Rui Huang, Zhuo Chen, Xiaohui Fan, Huajun Chen  
+*ICLR 2024*  
+[[Paper](https://doi.org/10.48550/arXiv.2306.08018)]  
+
+**A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding**  
+Yiqing Shen, Zan Chen, Michail Mamalakis, Luhan He, Haiyang Xia, Tianbin Li, Yanzhou Su, Junjun He, Yu Guang Wang  
+*Submitted on 8 Jun 2024, last revised 8 Jul 2024*  
+[[Paper](https://doi.org/10.48550/arXiv.2406.05540)]  
+
+
+
 
 
 
