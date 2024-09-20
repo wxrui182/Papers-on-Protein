@@ -192,7 +192,32 @@ The paper introduces a high-level programming language tailored for generative p
 **ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**  
 Liuzhenghao Lv, Zongying Lin, Hao Li, Yuyang Liu, Jiaxi Cui, Calvin Yu-Chian Chen, Li Yuan, Yonghong Tian  
 *Arxiv*    
-[[Paper](https://arxiv.org/pdf/2402.16445)]
+[[Paper](https://arxiv.org/pdf/2402.16445)]  
+
+**Ankh: Optimized Protein Language Model Unlocks General-Purpose Modelling**  
+Elnaggar, A., Essam, H., Salah-Eldin, W., Moustafa, W., Elkerdawy, M., Rochereau, C., & Rost, B.  
+*Technical University of Munich, Proteinea, Inc., Columbia University*  
+[[Paper](https://arxiv.org/pdf/2301.06568)]  [[Code](https://github.com/agemagician/Ankh)]  
+
+**Design Proteins Using Large Language Models: Enhancements and Comparative Analyses**  
+Zeinalipour, K., Jamshidi, N., Bianchini, M., Maggini, M., & Gori, M.  
+*University of Siena, DIISM*  
+[[Paper](https://arxiv.org/pdf/2408.06396)]  
+  
+**Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX**  
+Chen, Z., Chen, T., Xie, C., Xue, Y., Zhang, X., Zhou, J., & Fang, X.  
+*Baidu Inc*  
+[[Paper](https://arxiv.org/pdf/2407.09274)]  
+
+**Functional Protein Design with Local Domain Alignment**  
+Yuan, C., Li, S., Ye, G., Zhang, Y., Huang, L. K., Huang, W., ... & Rong, Y.  
+*Tencent AI Lab, Tsinghua University, Renmin University of China, Peking University*  
+[[Paper](https://arxiv.org/pdf/2404.16866)]  
+
+**TooT-PLM-P2S: Incorporating Secondary Structure Information into Protein Language Models**  
+Ghazikhani, H., & Butler, G.  
+*Concordia University*  
+[[Paper](https://www.biorxiv.org/content/10.1101/2024.08.13.607781v1.full.pdf)]  
 
 ### Function to Structure
 
@@ -341,6 +366,26 @@ Abstract: SHOW-O presents a unified Transformer architecture that integrates mul
 Tao Wu, Mengze Li, Jingyuan Chen, Wei Ji, Wang Lin, Jinyang Gao, Kun Kuang, Zhou Zhao, Fei Wu  
 *Zhejiang University, National University of Singapore, Alibaba Group*  
 Abstract: This work introduces a novel approach for aligning semantics in multimodal large language models, enhancing the coherence and consistency of information across different modalities to improve understanding and generation tasks.
+
+**Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone**  
+Abdin, M., Jacobs, S. A., Awan, A. A., Aneja, J., Awadallah, A., Awadalla, H., ... & Zhou, X.  
+*Microsoft*  
+[[Paper](https://arxiv.org/pdf/2404.14219)]  
+
+**mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models**  
+Ye, J., Xu, H., Liu, H., Hu, A., Yan, M., Qian, Q., ... & Zhou, J.  
+*Alibaba Group*  
+[[Paper](https://arxiv.org/pdf/2408.04840)]  [[Code](https://github.com/X-PLUG/mPLUG-Owl)]  
+
+**MM-Interleaved: Interleaved Image-Text Generation via Multi-modal Feature Synchronizer**  
+Tian, C., Zhu, X., Xiong, Y., Wang, W., Chen, Z., Wang, W., ... & Dai, J.   
+*OpenGVLab, Shanghai AI Laboratory, MMLab, CUHK, Tsinghua University, SenseTime Research, University of Toronto, Fudan University, Nanjing University, CAIR, HKISI, CAS*  
+[[Paper](https://arxiv.org/pdf/2401.10208)]  [[Code](https://github.com/OpenGVLab/MM-Interleaved)]  
+
+**CogAgent: A Visual Language Model for GUI Agents**  
+Hong, W., Wang, W., Lv, Q., Xu, J., Yu, W., Ji, J., ... & Tang, J.  
+*Tsinghua University, Zhipu AI*  
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.pdf)]  [[Code](https://github.com/THUDM/CogAgent)]  
 
 ## Dataset Construction
 **Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models**  
