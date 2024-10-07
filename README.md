@@ -398,8 +398,38 @@ Yiqing Shen, Zan Chen, Michail Mamalakis, Luhan He, Haiyang Xia, Tianbin Li, Yan
 *Submitted on 8 Jun 2024, last revised 8 Jul 2024*  
 [[Paper](https://doi.org/10.48550/arXiv.2406.05540)]  
 
+**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**  
+Zhao, H., Cai, Z., Si, S., Ma, X., An, K., Chen, L., ... & Chang, B.  
+*Peking University, BIGAI, University of Washington, Beijing Jiaotong University*  
+[[Paper](https://arxiv.org/pdf/2309.07915)]  [[Code](https://github.com/PKUnlp-icler/MIC)]  
 
+**Otter: A Multi-Modal with In-Context Instruction Tuning**  
+Li, B., Zhang, Y., Chen, L., Wang, J., Yang, J., & Liu, Z.  
+*S-Lab*  
+[[Paper](https://arxiv.org/pdf/2305.03726)]  [[Code](https://github.com/Luodian/Otter)]
 
+**Lightweight In-Context Tuning for Multimodal Unified Models**  
+Chen, Y., Zhang, S., Han, B., & Jia, J.  
+*The Chinese University of Hong Kong, Amazon Web Services*  
+[[Paper](https://arxiv.org/pdf/2310.05109)]  
 
+**Understanding Multimodal Instruction Format for In-Context Learning**  
+Ma, Y., Li, C., & Xiao, C.  
+[[Paper](https://openreview.net/pdf?id=SNGANmQPLv)]
+
+**SINC: Self-Supervised In-Context Learning for Vision-Language Tasks**  
+Chen, Y. S., Song, Y. Z., Yeo, C. Y., Liu, B., Fu, J., & Shuai, H. H.  
+*National Yang Ming Chiao Tung University, Microsoft Research Asia*  
+[[Paper](https://arxiv.org/pdf/2307.07742)]  
+
+**Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning**  
+Najdenkoska, I., Zhen, X., & Worring, M.  
+*University of Amsterdam*  
+[[Paper](https://arxiv.org/pdf/2302.14794)]  
+
+**Towards More Unified In-context Visual Understanding**  
+Sheng, D., Chen, D., Tan, Z., Liu, Q., Chu, Q., Bao, J., ... & Yu, N.  
+*University of Science and Technology of China, Anhui Province Key Laboratory of Digital Security, Microsoft, Beijing Institute of Technology, Beijing Electronic Science and Technology Institute*  
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Sheng_Towards_More_Unified_In-context_Visual_Understanding_CVPR_2024_paper.pdf)]  
 
 
