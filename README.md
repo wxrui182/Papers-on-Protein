@@ -227,6 +227,31 @@ Ghazikhani, H., & Butler, G.
 *Concordia University*  
 [[Paper](https://www.biorxiv.org/content/10.1101/2024.08.13.607781v1.full.pdf)]  
 
+**Energy Efficient Protein Language Models: Leveraging Small Language Models with LoRA for Controllable Protein Generation**  
+Aayush Shah, Shankar Jayaratnam  
+*Esperanto Technologies*  
+[[Paper](https://arxiv.org/abs/2411.05966)]
+
+**ProtDAT: A Unified Framework for Protein Sequence Design from Any Protein Text Description**  
+Xiao-Yu Guo, Yi-Fan Li, Yuan Liu, Xiaoyong Pan, Hong-Bin Shen
+*Shanghai Jiao Tong*  
+[[Paper](https://arxiv.org/abs/2412.04069)]
+
+**InstructBioMol: Advancing Biomolecule Understanding and Design Following Human Instructions**  
+Xiang Zhuang, Keyan Ding, Tianwen Lyu, Yinuo Jiang, Xiaotong Li, Zhuoyi Xiang, Zeyuan Wang, Ming Qin, Kehua Feng, Jike Wang, Qiang Zhang, and Huajun Chen
+*Zhejiang University*  
+[[Paper](https://arxiv.org/abs/2410.07919)]
+
+**Conditional Enzyme Generation Using Protein Language Models with Adapters**  
+Jason Yang, Aadyot Bhatnagar, Jeffrey A. Ruffolo, Ali Madani
+*California Institute of Technology*  
+[[Paper](https://arxiv.org/abs/2410.03634)]
+
+**DPLM-2: A Multimodal Diffusion Protein Language Model**  
+Xinyou Wang, Zaixiang Zheng, Fei Ye, Dongyu Xue, Shujian Huang, Quanquan Gu
+*Nanjing University*  
+[[Paper](https://arxiv.org/abs/2410.13782)]
+
 ### Function to Structure
 
 **Protein Sequence and Structure Co-Design with Equivariant Translation**   
