@@ -463,7 +463,13 @@ Najdenkoska, I., Zhen, X., & Worring, M.
 **Towards More Unified In-context Visual Understanding**  
 Sheng, D., Chen, D., Tan, Z., Liu, Q., Chu, Q., Bao, J., ... & Yu, N.  
 *University of Science and Technology of China, Anhui Province Key Laboratory of Digital Security, Microsoft, Beijing Institute of Technology, Beijing Electronic Science and Technology Institute*  
-[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Sheng_Towards_More_Unified_In-context_Visual_Understanding_CVPR_2024_paper.pdf)]  
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Sheng_Towards_More_Unified_In-context_Visual_Understanding_CVPR_2024_paper.pdf)] 
+
+## Explainability
+  
+**Concept Bottleneck Language Models for Protein Design**  
+Aya Abdelsalam Ismail, Tuomas Oikarinen, Amy Wang, Julius Adebayo, Samuel Stanton, Taylor Joren, Joseph Kleinhenz, Allen Goodman, Hector Corrada Bravo, Kyunghyun Cho, Nathan C. Frey
+[[Paper](https://arxiv.org/abs/2411.06090)]
 
 ## Metric  
   
