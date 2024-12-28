@@ -334,6 +334,22 @@ Robert Verkuil, Ori Kabeli, Yilun Du, Basile I. M. Wicky, Lukas F. Milles, Justa
 This research shows how language models can generalize beyond natural proteins, offering new insights into protein structure prediction and design.  
 [[Paper](https://arxiv.org/abs/2306.12360)]
 
+**ProtGO: Function-Guided Protein Modeling for Unified Representation Learning**  
+Hu, B., Tan, C., Xu, Y., Gao, Z., Xia, J., Wu, L., & Li, S. Z.  
+[[Paper](https://openreview.net/pdf?id=0oUutV92YF)]  
+
+**InstructPLM: Aligning Protein Language Models to Follow Protein Structure Instructions**  
+Qiu, J., Xu, J., Hu, J., Cao, H., Hou, L., Gao, Z., ... & Chen, G.  
+[[Paper](https://www.biorxiv.org/content/10.1101/2024.04.17.589642v1.full.pdf)]  
+
+**ProSST: Protein Language Modeling with Quantized Structure and Disentangled Attention**  
+Li, M., Tan, Y., Ma, X., Zhong, B., Yu, H., Zhou, Z., ... & Tan, P.  
+[[Paper](https://www.biorxiv.org/content/10.1101/2024.04.15.589672v3.abstract)]  
+
+**ProtDAT: A Unified Framework for Protein Sequence Design from Any Protein Text Description**  
+Guo, X. Y., Li, Y. F., Liu, Y., Pan, X., & Shen, H. B.  
+[[Paper](https://arxiv.org/pdf/2412.04069)]  
+
 ## Protein Understanding
 
 **LucaOne: Generalized Biological Foundation Model with Unified Nucleic Acid and Protein Language**  
@@ -464,6 +480,11 @@ Najdenkoska, I., Zhen, X., & Worring, M.
 Sheng, D., Chen, D., Tan, Z., Liu, Q., Chu, Q., Bao, J., ... & Yu, N.  
 *University of Science and Technology of China, Anhui Province Key Laboratory of Digital Security, Microsoft, Beijing Institute of Technology, Beijing Electronic Science and Technology Institute*  
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Sheng_Towards_More_Unified_In-context_Visual_Understanding_CVPR_2024_paper.pdf)] 
+
+**Inpainting Protein Sequence and Structure with ProtFill**  
+Kozlova, E., Valentin, A., & Gutierrez, D. N. Z.  
+[[Paper](https://openreview.net/pdf?id=awRjbuWxe4)]  
+
 
 ## Explainability
   
