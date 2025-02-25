@@ -1,10 +1,10 @@
-## Project Overview
-
-We aim to focus on protein sequence prediction by researching relevant models and exploring transferable strategies from multimodal approaches. Our goal is to identify and adapt state-of-the-art methods that can enhance the prediction of protein sequences through innovative and efficient modeling techniques.
-
 # Papers-on-Protein
 
-## Protein Generation
+## :bell:Project Overview
+
+*We aim to focus on protein sequence prediction by researching relevant models and exploring transferable strategies from multimodal approaches. Our goal is to identify and adapt state-of-the-art methods that can enhance the prediction of protein sequences through innovative and efficient modeling techniques.*
+
+## :one:Protein Generation
 
 ### Function to Sequence
 
@@ -211,7 +211,7 @@ Elnaggar, A., Essam, H., Salah-Eldin, W., Moustafa, W., Elkerdawy, M., Rochereau
 Zeinalipour, K., Jamshidi, N., Bianchini, M., Maggini, M., & Gori, M.  
 *University of Siena, DIISM*  
 [[Paper](https://arxiv.org/pdf/2408.06396)]  
-  
+
 **Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX**  
 Chen, Z., Chen, T., Xie, C., Xue, Y., Zhang, X., Zhou, J., & Fang, X.  
 *Baidu Inc*  
@@ -303,7 +303,7 @@ Zander Harteveld, Joshua Southern, Michaël Defferrard, Andreas Loukas, Pierre V
 **Keywords:** Variational autoencoder, Topological features, Sharpen  
 [[Paper](https://arxiv.org/pdf/2306.12360)]
 
-## Protein Representation Learning
+## :two:Protein Representation Learning
 
 **Protein Representation Learning via Knowledge Enhanced Primary Structure Modeling**  
 Hong-Yu Zhou, Yunxiang Fu, Zhicheng Zhang, Cheng Bian, and Yizhou Yu  
@@ -350,7 +350,7 @@ Li, M., Tan, Y., Ma, X., Zhong, B., Yu, H., Zhou, Z., ... & Tan, P.
 Guo, X. Y., Li, Y. F., Liu, Y., Pan, X., & Shen, H. B.  
 [[Paper](https://arxiv.org/pdf/2412.04069)]  
 
-## Protein Understanding
+## :three:Protein Understanding
 
 **LucaOne: Generalized Biological Foundation Model with Unified Nucleic Acid and Protein Language**  
 Yong He, Pan Fang, Yongtao Shan, Yuanfei Pan, Yanhong Wei, Yichang Chen, Yihao Chen, Yi Liu, Zhenyu Zeng, Zhan Zhou, Feng Zhu, Edward C. Holmes, Jieping Ye, Jun Li, Yuelong Shu, Mang Shi, and Zhaorong Li  
@@ -387,7 +387,7 @@ Junhong Shen, Neil Tenenholtz, James Brian Hall, David Alvarez-Melis, and Nicolo
 *ArXiv*  
 [[Paper](https://arxiv.org/pdf/2402.05140)] [[Code](https://github.com/sjunhongshen/Tag-LLM)]
 
-## Benchmark
+## :four:Benchmark
 
 **On Pre-Trained Language Models For Antibody**  
 Danqing Wang, Fei Ye, and Hao Zhou  
@@ -399,7 +399,7 @@ Minghao Xu, Zuobai Zhang, Jiarui Lu, Zhaocheng Zhu, Yangtian Zhang, Chang Ma, Ru
 *NeurIPS, 2022*  
 [[Paper](https://arxiv.org/abs/2206.02096)]  [[Project Page](https://torchprotein.ai/benchmark)]  
 
-## Multimodal Transfer Reference
+## :five:Multimodal Transfer Reference
 **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**  
 Jun Zhan, Junqi Dai, Jiasheng Ye, Yunhua Zhou, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li, Hang Yan, Jie Fu, Tao Gui, Tianxiang Sun, Yugang Jiang, Xipeng Qiu  
 *Fudan University, Multimodal Art Projection Research Community, Shanghai AI Laboratory*  
@@ -436,7 +436,7 @@ Hong, W., Wang, W., Lv, Q., Xu, J., Yu, W., Ji, J., ... & Tang, J.
 *Tsinghua University, Zhipu AI*  
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.pdf)]  [[Code](https://github.com/THUDM/CogAgent)]  
 
-## Dataset Construction
+## :six:Dataset Construction
 **Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models**  
 Yin Fang, Xiaozhuan Liang, Ningyu Zhang, Kangwei Liu, Rui Huang, Zhuo Chen, Xiaohui Fan, Huajun Chen  
 *ICLR 2024*  
@@ -486,18 +486,18 @@ Kozlova, E., Valentin, A., & Gutierrez, D. N. Z.
 [[Paper](https://openreview.net/pdf?id=awRjbuWxe4)]  
 
 
-## Explainability
-  
+## :seven:Explainability
+
 **Concept Bottleneck Language Models for Protein Design**  
 Aya Abdelsalam Ismail, Tuomas Oikarinen, Amy Wang, Julius Adebayo, Samuel Stanton, Taylor Joren, Joseph Kleinhenz, Allen Goodman, Hector Corrada Bravo, Kyunghyun Cho, Nathan C. Frey  
 [[Paper](https://arxiv.org/abs/2411.06090)]
 
-## Metric  
-  
+## :eight:Metric  
+
 **Scoring Function for Automated Assessment of Protein Structure Template Quality**  
 Zhang, Y., & Skolnick, J. (2004).  
 [[Paper](https://www.semanticscholar.org/paper/Scoring-function-for-automated-assessment-of-Zhang-Skolnick/c80520d6ef977f440775f2a3ceb256a3c0530056)]  
-  
+
 **lDDT: A Local Superposition-Free Score for Comparing Protein Structures and Models Using Distance Difference Tests**  
 Mariani, V., Biasini, M., Barbato, A., & Schwede  
 [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC3799472/pdf/btt473.pdf)]  
