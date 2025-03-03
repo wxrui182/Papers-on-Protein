@@ -387,6 +387,31 @@ Junhong Shen, Neil Tenenholtz, James Brian Hall, David Alvarez-Melis, and Nicolo
 *ArXiv*  
 [[Paper](https://arxiv.org/pdf/2402.05140)] [[Code](https://github.com/sjunhongshen/Tag-LLM)]
 
+**DeepSol: a deep learning framework for sequence-based protein solubility prediction**  
+Khurana, S., Rawi, R., Kunji, K., Chuang, G. Y., Bensmail, H., & Mall, R.  
+*Bioinformatics*  
+[[Paper](https://doi.org/10.1093/bioinformatics/bty166)]  
+
+**Ankh: Optimized protein language model unlocks general-purpose modelling**  
+Elnaggar, A., Essam, H., Salah-Eldin, W., Moustafa, W., Elkerdawy, M., Rochereau, C., & Rost, B.  
+*ArXiv*  
+[[Paper](https://arxiv.org/abs/2301.06568)]  
+
+**TopoQA: a topological deep learning-based approach for protein complex structure interface quality assessment**  
+Han, B., Zhang, Y., Li, L., Gong, X., & Xia, K.  
+*ArXiv*  
+[[Paper](https://arxiv.org/abs/2410.17815)]  
+
+**Prot2Chat: Protein LLM with Early Fusion of Sequence and Structure**  
+Wang, Z., Ma, Z., Cao, Z., Zhou, C., Zhang, J., & Gao, Y.  
+*ArXiv*  
+[[Paper](https://arxiv.org/abs/2502.06846)]  
+
+**Protchatgpt: Towards understanding proteins with large language models**  
+Wang, C., Fan, H., Quan, R., & Yang, Y.  
+*ACL, 2024*  
+[[Paper](https://arxiv.org/abs/2402.09649)]  
+
 ## :four:Benchmark
 
 **On Pre-Trained Language Models For Antibody**  
